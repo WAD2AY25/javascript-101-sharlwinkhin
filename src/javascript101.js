@@ -36,7 +36,3 @@ function checkStatus(student) {
     
 }
 
-computeAverageScore()
-checkStatus(students[1])
-checkStatus(students[2])
-
