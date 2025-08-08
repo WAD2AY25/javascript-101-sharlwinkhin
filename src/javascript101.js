@@ -14,7 +14,7 @@ const students = [
             { name: "Charlie", score: 42 }
         ]
 
-function computeAverageScore(students) {}
+function computeAverageScore(students) {
     let result = 0
     // add your code here
     for(let student of students) {
